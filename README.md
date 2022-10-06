@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repo](https://github.com/Andy-Esm/fm-order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github pages](https://andy-esm.github.io/fm-order-summary-component-main/)
 
 ### Built with
 
